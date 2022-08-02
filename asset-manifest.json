@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reviews-random-person/static/css/main.dd1dd8ba.css",
+    "main.js": "/reviews-random-person/static/js/main.6c4e300b.js",
+    "index.html": "/reviews-random-person/index.html",
+    "main.dd1dd8ba.css.map": "/reviews-random-person/static/css/main.dd1dd8ba.css.map",
+    "main.6c4e300b.js.map": "/reviews-random-person/static/js/main.6c4e300b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd1dd8ba.css",
+    "static/js/main.6c4e300b.js"
+  ]
+}
